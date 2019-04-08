@@ -1,0 +1,11 @@
+.extrastuff
+*.cube
+*.cssr
+Tester.jl
+VisualizeTester.jl
+*.swp
+*.cif
+*.sh
+*.jld2
+docs/build/
+docs/site/
